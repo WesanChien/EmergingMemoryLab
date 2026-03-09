@@ -19,7 +19,6 @@ This repository contains the implementation of Assignment 2, which includes:
 
 * Rebuilding Linux kernel with built-in module support
 
-
 ### Build Commands
 ```
 make
